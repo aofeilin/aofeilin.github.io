@@ -3,6 +3,7 @@ module.exports = {
   // base:'docs',
   title:'aofeilin的学习记录',
   descrition:"描述1111",
+  base: '.',
   head:[
     ['link',{rel:'icon',href:'/assets/img/logo.png'}],
     ['meta',{name:'author',content:'作者aofeilin'}],
